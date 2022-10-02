@@ -70,9 +70,8 @@ edited click a place alpaca as click a place `Awesome` alpaca
 # Add a github Action that creates and deploy the index.html to the sandbox via cli (Use Secrets to setup the cli credentials)
 
 `Action - create new workflow - Edit name- edit file `
-- [Mydeploy](Edited_deploy_file.md/My_edited_file.md)
-- [Fabdeploy](Edited_deploy_file.md/Fab_deployfile.md)
-
+- [Mydeploy](Edited_deployfile.md/my_df.md)
+- [Fabdeploy](Edited_deployfile.md/fab_df.md)
 * Open html file and edit color, time (0.5,0.2) and name as we like
 * save changes
 * check status, leave if all green

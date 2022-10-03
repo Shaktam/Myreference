@@ -44,6 +44,7 @@ v=1ffBJ4sVUb4)
 [Link](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html#using-s3-commands-managing-objects-copy)
 
 ## S3 Upload files
+[usefull link](https://medium.com/plusteam/upload-files-to-aws-s3-with-public-read-acl-using-aws-cli-or-boto-3-2e2bc67bbd63)
 [Link](https://codingsight.com/upload-files-to-aws-s3-with-the-aws-cli/)
 ## Security group
 [Link](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
@@ -53,6 +54,9 @@ v=1ffBJ4sVUb4)
 # Static website
 [link](https://sammeechward.com/aws-cli-s3-static-website/)
 
+# LInux commands
+[shortcut](https://linuxhandbook.com/linux-shortcuts/)
+[ubuntu](https://itsfoss.com/clear-terminal-ubuntu/)
 
 
 # Git hub

@@ -22,6 +22,8 @@
 - Homebrew
 [link](https://daringfireball.net/projects/markdown/basics)
 ## Git 
+[git SCM](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+[Git atlas](https://www.atlassian.com/git/tutorials/using-branches?section=git-branch)
 [Link](https://shiny-goggles-0bc3dcca.pages.github.io/git.html)
 ## AWS Prasentation
 [Link](https://shiny-goggles-0bc3dcca.pages.github.io/welcome.html#3)
@@ -44,12 +46,14 @@ v=1ffBJ4sVUb4)
 [Link](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html#using-s3-commands-managing-objects-copy)
 
 ## S3 Upload files
+[S3 Rule](https://www.middlewareinventory.com/blog/ec2-s3-copy/)
 [usefull link](https://medium.com/plusteam/upload-files-to-aws-s3-with-public-read-acl-using-aws-cli-or-boto-3-2e2bc67bbd63)
 [Link](https://codingsight.com/upload-files-to-aws-s3-with-the-aws-cli/)
 ## Security group
 [Link](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 # EC2 start and stop instance
 [Link](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html)
+[EC2 Doc](https://asf.alaska.edu/how-to/data-recipes/moving-files-into-and-out-of-an-aws-ec2-instance-windows/)
 
 # Static website
 [link](https://sammeechward.com/aws-cli-s3-static-website/)
@@ -79,3 +83,6 @@ on Github go to Settings => SSH and create a new key here (Title could be the cu
 Add added to the repository some exercises:…
 [VIM](https://vim-adventures.com/)
 [WITH git](https://skills.github.com/)
+
+# Ubuntu
+[Linux Basic](https://ubuntu.com/tutorials/command-line-for-beginners#2-a-brief-history-lesson)

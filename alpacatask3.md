@@ -7,9 +7,13 @@
 1. Place your alpaca (click in the browser ;))
 
 # Before Creating Repository
+
 `cd Desktop`
+
 `mkdir apaca_aws`
+
 - copy html file to apaca_aws
+ 
 `cd apaca_aws`
 
 `git init`
@@ -51,6 +55,7 @@ git push -u origin main
 
 edited click a place alpaca as click a place `Awesome` alpaca
  to return to git
+
 `:qal`
 
 `:wq`
@@ -78,6 +83,7 @@ edited click a place alpaca as click a place `Awesome` alpaca
 - can delete branch remotely
 - check html file.
 ## In Terminal
+
 `git switch main`
 
 `git pull`
@@ -91,6 +97,7 @@ edited click a place alpaca as click a place `Awesome` alpaca
 # Add a github Action that creates and deploy the index.html to the sandbox via cli (Use Secrets to setup the cli credentials)
 
 `Action - create new workflow - Edit name- edit file `
+
 - [Mydeploy](Edited_deployfile.md/my_df.md)
 - [Fabdeploy](Edited_deployfile.md/fab_df.md)
 * Open html file and edit color, time (0.5,0.2) and name as we like
@@ -98,6 +105,7 @@ edited click a place alpaca as click a place `Awesome` alpaca
 * check status, leave if all green
 
 ## to add seceret key
+
 settings- secret- Action- add secret key-`AWS_ACCESS_KEY_ID`-`Access kex from aws details AWS CLI` ans aws secert accesskey and secret token
 
 

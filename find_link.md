@@ -86,3 +86,13 @@ Add added to the repository some exercises:…
 
 # Ubuntu
 [Linux Basic](https://ubuntu.com/tutorials/command-line-for-beginners#2-a-brief-history-lesson)
+* [SUDO](https://linuxize.com/post/su-command-in-linux/)
+* [sed](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
+
+* [Cron Tab](https://crontab.guru)
+
+* [Bash Scrip](https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php)
+
+* [zsh](https://ohmyz.sh/)
+* [tar](https://www.interserver.net/tips/kb/use-tar-command-linux-examples/)
+* [Alias](https://unix.stackexchange.com/questions/3773/how-to-pass-parameters-to-an-alias)

@@ -96,3 +96,42 @@ Add added to the repository some exercises:…
 * [zsh](https://ohmyz.sh/)
 * [tar](https://www.interserver.net/tips/kb/use-tar-command-linux-examples/)
 * [Alias](https://unix.stackexchange.com/questions/3773/how-to-pass-parameters-to-an-alias)
+
+
+LINKS:
+Git
+Links
+Starter Tutorial (Start - Advanced) : https://www.w3schools.com/git/default.asp?remote=github
+Github Tutorial (Start - Advanced) : https://skills.github.com/
+More into games? (Start - Advanced) : https://ohmygit.org/
+More Advanced (Advanced - Master) : https://www.atlassian.com/git/tutorials/advanced-overview
+Videos
+Git in 15 Minutes (Start - Advanced) : https://www.youtube.com/watch?v=USjZcfj8yxE&t=153s
+If there is a sale, you have a penny to spare and you want to dive deeper into git (did it myself, very good, All Levels) : https://www.udemy.com/course/git-and-github-bootcamp/
+Linux
+Links
+Learn Vim (Start - Advanced) : https://vim-adventures.com/
+More into games? (All Levels) : https://opensource.com/article/19/10/learn-bash-command-line-games
+Shell Scripting (Advanced): https://www.shellscript.sh/
+AWS
+General
+What is the Cloud : https://www.youtube.com/watch?v=GneIpdOirZY
+What is AWS: https://www.youtube.com/watch?v=b9djL3dgGhc
+Train for your exam : http://awstrainer-env-1.eba-x78b26zu.eu-central-1.elasticbeanstalk.com
+S3
+Official Documentation : https://docs.aws.amazon.com/s3/index.html
+EC2
+Official Documentation : https://docs.aws.amazon.com/ec2/index.html
+w3schools.comw3schools.com
+Git Tutorial
+W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more. (6 kB)
+https://www.w3schools.com/git/default.asp?remote=github
+
+ohmygit.org
+Oh My Git!
+An open source game about learning Git (447 kB)
+https://ohmygit.org/
+
+AtlassianAtlassian
+Advanced Git Tutorials Overview | Atlassian Git Tutorial
+Refine your existing Git skills by taking a look under the hood at advanced Git features.

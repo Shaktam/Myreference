@@ -123,3 +123,6 @@ Add added to the repository some exercises:…
 - https://www.educative.io/courses/introduction-to-yaml/N881Nq9pVY8
 
 - https://docs.aws.amazon.com/cdk/v2/guide/home.html
+
+## git switch
+- https://stackoverflow.com/questions/9537392/git-fetch-remote-branch
